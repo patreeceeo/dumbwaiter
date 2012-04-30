@@ -1,5 +1,5 @@
 /*
- * common.hpp
+ * messaging.hpp
  *
  *  Created on: Oct 6, 2010
  *      Author: patrick
